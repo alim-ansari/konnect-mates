@@ -4,11 +4,8 @@
 
 ### Created with MERN Stack and advanced security packages
 
-
-
 ### Make contributions by mailing me or send me pull requests 
 
-### Glimpse of the website 
 
 ### [Konnect-Mates Website](https://konnect-mates.herokuapp.com)
 
