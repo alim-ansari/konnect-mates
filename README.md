@@ -1,14 +1,17 @@
 # Konnect-Mates v3.2.4
 
-## The Neat and Clean Social Media without Trackers
+### The Neat and Clean Social Media without Trackers
 
-## Created with MERN Stack and advanced security packages
+### Created with MERN Stack and advanced security packages
 
-### [Konnect-Mates Website](https://konnect-mates.herokuapp.com)
+
 
 ### Make contributions by mailing me or send me pull requests 
 
 ### Glimpse of the website 
+
+### [Konnect-Mates Website](https://konnect-mates.herokuapp.com)
+
 
 ![Website Screenshot](https://raw.githubusercontent.com/alim-ansari/konnect-mates/master/konnect-mates-website.png)
 
@@ -36,7 +39,7 @@
 	v2.0.2 : Created first landing page of the application
 	v2.0.0 : Started building front end for the application
 
-# Version 1 :
+### Version 1 :
 
 	v1.9.9 : Added config files to connect with database
 	v1.8.0 : Postman tested successfully for the http requests
