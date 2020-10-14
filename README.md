@@ -16,7 +16,8 @@
 
 ### Version 3 : 
 
-	v3.2.4 : Fixed chat and comment typing section and designed it with material theme
+	v3.2.4 : Fixed search profiles and github no username found error solved
+	v3.2.2 : Fixed chat and comment typing section and designed it with material theme	
 	v3.2.0 : Fixed Layout and Styling of User profile section
 	v3.1.5 : Added Comment Layout and Styling
 	v3.1.2 : Added Group Chat Layout and Designed to look like whatsapp chat
