@@ -9,8 +9,9 @@
 
 ### [Konnect-Mates Website](https://konnect-mates.herokuapp.com)
 
+### Website
 
-![Website Screenshot](https://raw.githubusercontent.com/alim-ansari/konnect-mates/master/konnect-mates-website.png)
+![Website Screenshot](https://raw.githubusercontent.com/alim-ansari/konnect-mates/master/konnect-mates-output.gif)
 
 # Take a look at version changes
 
