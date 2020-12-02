@@ -1,6 +1,6 @@
-# Konnect-Mates v3.2.4
+# Konnect-Mates v3.5.6
 
-### The Neat and Clean Social Media without Trackers
+### The Neat and Clean Social Network without Trackers
 
 ### Created with MERN Stack and advanced security packages
 
@@ -17,6 +17,9 @@
 
 ### Version 3 : 
 
+	v3.5.6 : Added Terms & Conditions and updated Register page
+	v3.5.0 : Updated application as progressive web application and fixed download pdf orientation
+	v3.3.7 : Added feature of Install as an application and added instructions for the same
 	v3.2.4 : Fixed search profiles and github no username found error solved
 	v3.2.2 : Fixed chat and comment typing section and designed it with material theme	
 	v3.2.0 : Fixed Layout and Styling of User profile section
